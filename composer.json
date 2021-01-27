@@ -4,8 +4,7 @@
     "version": "1.0.1-dev",
     "license": "MIT",
     "keywords": [
-        "laravel",
-        "response"
+        "laravel", "response"
     ],
     "authors": [
         {
