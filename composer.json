@@ -1,6 +1,7 @@
 {
     "name": "shao-yun-ccy/laravel_response",
     "description": "The Standard of Laravel Api Response",
+    "version": "1.0.1-dev",
     "license": "MIT",
     "keywords": [
         "laravel",
