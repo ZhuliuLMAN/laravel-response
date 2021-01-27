@@ -3,7 +3,8 @@
     "description": "The Standard of Laravel Api Response",
     "license": "MIT",
     "keywords": [
-        "laravel"
+        "laravel",
+        "response"
     ],
     "authors": [
         {
